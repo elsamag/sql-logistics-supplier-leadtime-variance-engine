@@ -90,7 +90,6 @@ FROM supplier_shipments;
 ##  Repository Structure & Directory Layout
 
 ```text
-sql-logistics-supplier-leadtime-variance-engine/
 ├── README.md                           
 ├── README.html                         
 ├── LICENSE                             
@@ -117,3 +116,15 @@ cd sql-logistics-supplier-leadtime-variance-engine
 ```bash
 psql -d logistics_db -f src/leadtime_variance_extraction.sql
 ```
+
+> ### 💡 Enterprise Consulting & Infrastructure Optimization
+> Need to eliminate data bottlenecks, optimize SQL latency, or automate inventory analytics for your enterprise?
+> **Elsamag IT Solutions** provides specialized technical consulting, relational schema auditing, and bespoke data engineering solutions under Lead Technical Consultant **Samuel Chinwendu Agu**.
+
+---
+
+### ⭐ Support & Feedback
+
+If this project or repository helped you optimize your infrastructure or solve a technical bottleneck, please give it a **Star (⭐)** on GitHub!
+
+Follow **[Samuel Chinwendu Agu (@Elsamag)](https://github.com/Elsamag)** for upcoming open-source enterprise analytics, cybersecurity, and data engineering tools.
